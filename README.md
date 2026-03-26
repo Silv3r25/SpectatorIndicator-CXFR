@@ -74,3 +74,17 @@ When a player watches you, a minimal overlay appears showing:
 - The list of spectator names (with their in-game colors)
 
 The overlay has no background and is designed to be unobtrusive during gameplay.
+
+---
+
+## License
+
+This project is provided as-is for the CarX modding community.
+
+---
+
+## Credits
+
+- KSL and Kino by [trbflxr](https://github.com/trbflxr)
+- Mod by S!LVER
+
