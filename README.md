@@ -1,3 +1,8 @@
+[![Releases](https://img.shields.io/github/v/release/Silv3r25/SpectatorIndicator-CXFR?include_prereleases&label=DOWNLOAD&style=for-the-badge)](https://github.com/Silv3r25/SpectatorIndicator-CXFR/releases)
+![Downloads](https://img.shields.io/github/downloads/Silv3r25/SpectatorIndicator-CXFR/total?label=TOTAL%20DOWNLOADS&style=for-the-badge)
+[![Discord](https://img.shields.io/discord/1112653107185328218?label=DISCORD&style=for-the-badge)](https://discord.gg/hpR8NvwUYK)
+![Views](https://komarev.com/ghpvc/?username=Silv3r25&label=VIEWS&style=for-the-badge&color=brightgreen)
+
 # Spectator Indicator CXFR
 
 A KSL mod for CarX Drift Racing Online that shows when another player is watching you in spectator mode.
